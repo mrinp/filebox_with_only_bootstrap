@@ -81,3 +81,7 @@ body {
 .margin-below-bottom-xl {
   margin-bottom: 200px;
 }
+
+.box{
+  font-size: 50px;
+}
